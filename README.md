@@ -6,7 +6,7 @@ Este repositorio contiene una prueba de código diseñada para evaluar habilidad
 
 Asegúrate de tener instalado en tu sistema:
 
-- [Node.js](https://nodejs.org/) (v16 o superior recomendado)
+- [Node.js](https://nodejs.org/) (v18 o superior recomendado)
 - [npm](https://www.npmjs.com/) (incluido con Node.js)
 - [Docker](https://www.docker.com/) (para crear y ejecutar la imagen Docker)
 
