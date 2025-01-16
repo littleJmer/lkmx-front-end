@@ -16,8 +16,8 @@ Asegúrate de tener instalado en tu sistema:
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone git@github.com:littleJmer/lkmx-front-end.git
+   cd lkmx-front-end
    ```
 
 2. Instala las dependencias necesarias:
