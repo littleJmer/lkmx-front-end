@@ -63,8 +63,3 @@ El repositorio está organizado de la siguiente manera:
 - **/src**: Contiene el código fuente de la aplicación.
 - **/public**: Archivos estáticos como imágenes y recursos públicos.
 - **package.json**: Definiciones de dependencias y scripts.
-
-## Contacto
-
-Si tienes preguntas o necesitas más información sobre esta prueba, no dudes en contactarnos a través de [juanmanueler@gmail.com](mailto:juanmanueler@gmail.com).
-
